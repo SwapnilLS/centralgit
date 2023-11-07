@@ -10,3 +10,5 @@ echo "All Task Done Successfully"
 
 echo "List of new files as "
 ls
+ls
+ls
