@@ -1,5 +1,0 @@
-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
-
-git config --global user.name "SwapnilLS"
-
-it config --global user.email "swapnilshitole2803@gmail.com"
